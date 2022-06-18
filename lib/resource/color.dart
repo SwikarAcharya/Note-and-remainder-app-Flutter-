@@ -1,0 +1,11 @@
+const LIST_OF_COLORS = [
+  0xffef5350,
+  0xffec407a,
+  0xffab47bc,
+  0xff7e57c2,
+  0xff78909c,
+  0xffbdbdbd,
+  0xff9ccc65,
+  0xffFFC0CB,
+  0xffd81b60
+];

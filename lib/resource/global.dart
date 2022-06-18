@@ -1,0 +1,1 @@
+enum NOTES_MANAGE_MOD { ADD, EDIT }
